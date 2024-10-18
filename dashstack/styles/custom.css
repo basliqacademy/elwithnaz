@@ -1,3 +1,6 @@
 :root {
-  --main-bg-color: hsl(0, 100%, 97%);
+  --main-bg-color: hsl(0, 0%, 100%);
+  --primary-dark-blue: hsl(222, 100%, 64%);
+  --main-black: hsl(210, 6%, 13%);
+  --secondary-bg-color: hsl(0, 0%, 88%);
 }
